@@ -22,6 +22,10 @@ This project consists of two classes:
 
 Ensure you have Python 3 installed. Clone the repository and run:
 
+## How to run the test
+
+The main.py file contains the implementation of these classes.
+
 ```bash
 git clone https://github.com/awizend/expense-tracker.git
 cd expense-tracker
